@@ -4,7 +4,7 @@ public class Program {
 		System.out.println( Arrays.toString(arr));
 		Arrays.sort( arr );
 		System.out.println( Arrays.toString(arr));
-		System.out.println(getob
+		System.out.println("")
 	}
 }
 
